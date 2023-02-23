@@ -1,0 +1,14 @@
+{
+  "../hooks/useAuth.tsx -> ../connectors/injected/errors": {
+    "id": "../hooks/useAuth.tsx -> ../connectors/injected/errors",
+    "files": [
+      "static/chunks/connectors_injected_errors_ts.js"
+    ]
+  },
+  "../utils/connectors.ts -> ../connectors/injected/connector": {
+    "id": "../utils/connectors.ts -> ../connectors/injected/connector",
+    "files": [
+      "static/chunks/connectors_injected_connector_ts.js"
+    ]
+  }
+}

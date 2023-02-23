@@ -1,0 +1,17 @@
+.container {
+  padding: 0;
+  margin: 0;
+}
+
+.main {
+  height: 100vh;
+  background: rgb(28, 25, 40);
+  text-align: center;
+  font-family: sans-serif;
+}
+.title {
+  color: white;
+  font-size: 2rem;
+  font-weight: bold;
+  padding: 4rem 0;
+}
